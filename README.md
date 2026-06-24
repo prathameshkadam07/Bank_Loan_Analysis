@@ -2,7 +2,8 @@
 
 ## 📊 End-to-End Banking Analytics Solution Using SQL Server & Power BI
 
-<img width="706" height="398" alt="image" src="https://github.com/user-attachments/assets/a32755c1-71b1-4fb0-9a90-8536dcc05e16" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0dc79a06-6bea-4ec2-b641-7ccce95dbe27" />
+
 
 
 ---
