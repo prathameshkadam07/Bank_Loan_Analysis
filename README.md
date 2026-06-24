@@ -524,6 +524,4 @@ The Bank Loan Analysis Project successfully delivered:
 - Dashboard Development
 - Data Storytelling
 
----
 
-## ⭐ If you found this project useful, consider giving it a star and connecting with me on LinkedIn.
