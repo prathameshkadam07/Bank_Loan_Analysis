@@ -2,7 +2,7 @@
 
 ## 📊 End-to-End Banking Analytics Solution Using SQL Server & Power BI
 
-![Summary Dashboard]<img width="706" height="398" alt="image" src="https://github.com/user-attachments/assets/a32755c1-71b1-4fb0-9a90-8536dcc05e16" />
+<img width="706" height="398" alt="image" src="https://github.com/user-attachments/assets/a32755c1-71b1-4fb0-9a90-8536dcc05e16" />
 
 
 ---
@@ -94,7 +94,8 @@ The dataset contains borrower and loan-related information including:
 
 # 📊 Dashboard 1: Executive Summary
 
-![Summary Dashboard](images/summary_dashboard.png)
+<img width="706" height="398" alt="image" src="https://github.com/user-attachments/assets/8563d2f5-ade1-4c8b-81b8-92a70de1c5b9" />
+
 
 ## Purpose
 
@@ -201,7 +202,8 @@ The dominance of Fully Paid loans indicates strong portfolio quality and effecti
 
 # 📊 Dashboard 2: Portfolio Overview
 
-![Overview Dashboard](images/overview_dashboard.png)
+<img width="707" height="398" alt="image" src="https://github.com/user-attachments/assets/cab9405c-2c05-4215-8592-13f2f605fa86" />
+
 
 ## Purpose
 
@@ -342,7 +344,8 @@ Renters represent the largest borrower segment and provide significant lending o
 
 # 📊 Dashboard 3: Loan Details Dashboard
 
-![Details Dashboard](images/details_dashboard.png)
+<img width="706" height="395" alt="image" src="https://github.com/user-attachments/assets/f3a05bc4-b93c-4b2d-82b2-73ac50d7a07d" />
+
 
 ## Purpose
 
